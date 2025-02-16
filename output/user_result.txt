@@ -4,94 +4,106 @@ CCTV13,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571
 CCTV13,http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
 CCTV13,http://123.182.60.29:9002/hls/13/index.m3u8
 CCTV13,http://110.53.52.63:8888/newlive/live/hls/15/live.m3u8
-CCTV13,https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
-CCTV13,http://www.52iptv.vip:35455/gaoma/cctv13.m3u8
-CCTV13,http://112.74.115.68:35455/gaoma/cctv13.m3u8
+CCTV13,http://219.135.180.210:18888/hls/13/index.m3u8
+CCTV13,http://3501776.xyz:35455/gaoma/cctv13.m3u8
 CCTV13,http://231114.xyz:35455/gaoma/cctv13.m3u8
+CCTV13,http://2000.run:35455/gaoma/cctv13.m3u8
 CCTV13,http://newtv.fun:35455/gaoma/cctv13.m3u8
 CCTV14,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010207
 CCTV14,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
 CCTV14,http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
 CCTV14,http://123.182.60.29:9002/hls/14/index.m3u8
 CCTV14,http://110.53.52.63:8888/newlive/live/hls/16/live.m3u8
-CCTV14,https://api.olelive.com/dis/live/CCTV14HD/hls.m3u8
-CCTV14,http://www.52iptv.vip:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
-CCTV14,http://112.74.115.68:35455/gaoma/cctv14.m3u8
+CCTV14,http://219.135.180.210:18888/hls/14/index.m3u8
+CCTV14,http://3501776.xyz:35455/gaoma/cctv14.m3u8
+CCTV14,http://ott.eonn.cn:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 CCTV14,http://231114.xyz:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
-CCTV14,http://newtv.fun:35455/gaoma/cctv14.m3u8
+CCTV14,http://2000.run:35455/itv/1000000005000265013.m3u8?cdn=ystenlive
 金鹰卡通,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000006000040024
 金鹰卡通,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225653
 金鹰卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010107
 金鹰卡通,http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 金鹰卡通,http://110.53.52.63:8888/newlive/live/hls/49/live.m3u8
+金鹰卡通,http://120.192.226.35:8009/hls/67/index.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 金鹰卡通,http://220.170.241.204:9901/tsfile/live/1005_1.m3u8
-金鹰卡通,http://139.196.151.191:2051/rtp/239.45.3.118:5140
-金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
-金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://139.129.231.228:50060/rtp/239.21.1.48:5002
+金鹰卡通,http://1b6467f415.iok.la:9931/tsfile/live/1055_1.m3u8
 卡酷少儿,http://php.jdshipin.com/itv6.php?cid=bestzb&id=7851974109718180595
 卡酷少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225654
+卡酷少儿,http://1b6467f415.iok.la:9931/tsfile/live/1054_1.m3u8
+卡酷少儿,http://60.29.124.66:6080/hls/58/index.m3u8
 卡酷少儿,http://61.138.128.226:19901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://zwebl02.cztv.com/live/channel081080P.m3u8?auth_key=1737007984-38cc2437a6aa4232b22681fbfa350df2-0-031bb2b66adc4cdccc74aaf0236e0f97
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+浙江少儿,http://120.55.49.231:3095/rtp/233.50.201.138:5140
 哈哈炫动,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225657
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 哈哈炫动,http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
+哈哈炫动,http://120.238.94.10:9901/tsfile/live/1037_1.m3u8
+哈哈炫动,http://139.129.231.228:50060/rtp/239.21.1.51:5002
+哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
 哈哈炫动,http://61.138.128.226:19901/tsfile/live/1016_1.m3u8
+哈哈炫动,http://120.55.49.231:3095/rtp/233.50.201.74:5140
+哈哈炫动,http://139.196.151.191:2051/rtp/239.45.1.55:5140
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118
 优漫卡通,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225656
 优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
+优漫卡通,http://139.129.231.228:50060/rtp/239.21.1.50:5002
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://111.29.9.33:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
+动漫秀场,http://120.192.226.35:8009/hls/68/index.m3u8
+动漫秀场,http://120.55.49.231:3095/rtp/233.50.201.184:5140
+动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
 动漫秀场,http://139.196.151.191:2051/rtp/239.45.3.134:5140
 辽宁教育青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 黑莓动画,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225662
 黑莓动画,http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
-CCTV1 综合,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010011
-CCTV1 综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
-CCTV1 综合,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
-CCTV1 综合,http://113.140.86.162:8009/hls/501/index.m3u8
-CCTV1 综合,http://112.46.85.60:8009/hls/501/index.m3u8
-CCTV1 综合,http://175.31.21.146:4480/hls/1/index.m3u8
-CCTV1 综合,http://123.182.60.29:9002/hls/1/index.m3u8
-CCTV1 综合,http://110.53.52.63:8888/newlive/live/hls/2/live.m3u8
-CCTV1 综合,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8
-CCTV1 综合,http://www.52iptv.vip:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+黑莓动画,http://146.235.213.45:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
+CCTV1,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010011
+CCTV1,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
+CCTV1,http://111.29.9.33:6610/000000001000/1000000001000021973/index.m3u8?channel-id=bestzb&Contentid=1000000001000021973&livemode=1&stbId=3
+CCTV1,http://60.172.130.146:352/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://175.31.21.146:4480/hls/1/index.m3u8
+CCTV1,http://219.135.180.210:18888/hls/1/index.m3u8
+CCTV1,http://3501776.xyz:35455/gaoma/cctv1.m3u8
+CCTV1,http://231114.xyz:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1,http://2000.run:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1,http://newtv.fun:35455/gaoma/cctv1.m3u8
 湖南卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000523
 湖南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010058
 湖南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225610
-湖南卫视,http://182.37.169.94:352/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://111.29.9.33:6610/000000001000/1000000001000009115/index.m3u8?channel-id=bestzb&Contentid=1000000001000009115&livemode=1&stbId=3
-湖南卫视,http://113.140.86.162:8009/hls/32/index.m3u8
 湖南卫视,http://175.31.21.146:4480/hls/36/index.m3u8
 湖南卫视,http://110.53.52.63:8888/newlive/live/hls/22/live.m3u8
 湖南卫视,http://42.238.235.104:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://www.52iptv.vip:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+湖南卫视,http://117.144.58.42:35455/itv/1000000005000265024.m3u8?cdn=ystenlive&Contentid=1000000005000265024
+湖南卫视,http://3501776.xyz:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
+湖南卫视,http://ott.eonn.cn:35455/itv/1000000005000265024.m3u8?cdn=ystenlive
 浙江卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000531
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://182.37.169.94:352/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://111.29.9.33:6610/000000001000/1000000001000009806/index.m3u8?channel-id=bestzb&Contentid=1000000001000009806&livemode=1&stbId=3
-浙江卫视,http://113.140.86.162:8009/hls/34/index.m3u8
-浙江卫视,http://112.46.85.60:8009/hls/34/index.m3u8
-浙江卫视,http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://175.31.21.146:4480/hls/28/index.m3u8
+浙江卫视,http://1.195.30.9:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://110.53.52.63:8888/newlive/live/hls/23/live.m3u8
+浙江卫视,http://117.144.58.42:35455/itv/1000000001000014260.m3u8?cdn=ystenlive&Contentid=1000000001000014260
 东方卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000518
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 东方卫视,http://111.29.9.33:6610/000000001000/1000000001000005866/index.m3u8?channel-id=bestzb&Contentid=1000000001000005866&livemode=1&stbId=3
-东方卫视,http://113.140.86.162:8009/hls/31/index.m3u8
-东方卫视,http://112.46.85.60:8009/hls/31/index.m3u8
-东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
 东方卫视,http://1.195.30.9:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://110.53.52.63:8888/newlive/live/hls/19/live.m3u8
-东方卫视,http://www.52iptv.vip:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+东方卫视,http://36.32.174.67:60080/newlive/live/hls/24/live.m3u8
+东方卫视,http://117.144.58.42:35455/itv/1000000005000265018.m3u8?cdn=ystenlive&Contentid=1000000005000265018
+东方卫视,http://3501776.xyz:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
+东方卫视,http://ott.eonn.cn:35455/itv/1000000005000265018.m3u8?cdn=ystenlive
 河南卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000027
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010071
@@ -99,48 +111,48 @@ CCTV1 综合,http://www.52iptv.vip:35455/itv/1000000005000265001.m3u8?cdn=ystenl
 河南卫视,http://110.53.52.63:8888/newlive/live/hls/32/live.m3u8
 河南卫视,http://42.238.235.104:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://117.144.58.42:35455/itv/5000000011000031119.m3u8?cdn=bestzb&Contentid=5000000011000031119
-河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8
-河南卫视,http://183.3.134.56:9901/tsfile/live/0139_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+河南卫视,http://120.192.226.35:8009/hls/46/index.m3u8
 河南卫视,http://58.19.43.46:9901/tsfile/live/1006_1.m3u8
+河南卫视,http://58.221.214.82:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000524
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
-江苏卫视,http://182.37.169.94:352/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://111.29.9.33:6610/000000001000/1000000001000001828/index.m3u8?channel-id=bestzb&Contentid=1000000001000001828&livemode=1&stbId=3
-江苏卫视,http://113.140.86.162:8009/hls/33/index.m3u8
-江苏卫视,http://112.46.85.60:8009/hls/33/index.m3u8
-江苏卫视,http://1.195.30.9:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://123.182.60.29:9002/hls/27/index.m3u8
+江苏卫视,http://1.195.30.9:19901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://110.53.52.63:8888/newlive/live/hls/21/live.m3u8
+江苏卫视,http://117.144.58.42:35455/itv/1000000001000001828.m3u8?cdn=ystenlive&Contentid=1000000001000001828
+江苏卫视,http://3501776.xyz:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
+江苏卫视,http://ott.eonn.cn:35455/itv/1000000005000265030.m3u8?cdn=ystenlive
 北京卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000516
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226450
 北京卫视,http://111.29.9.33:6610/000000001000/1000000001000017156/index.m3u8?channel-id=bestzb&Contentid=1000000001000017156&livemode=1&stbId=3
-北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
 北京卫视,http://1.195.30.9:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视,http://110.53.52.63:8888/newlive/live/hls/18/live.m3u8
+北京卫视,http://36.32.174.67:60080/newlive/live/hls/25/live.m3u8
 北京卫视,http://42.238.235.104:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://www.52iptv.vip:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 北京卫视,http://117.144.58.42:35455/itv/1000000005000265027.m3u8?cdn=ystenlive&Contentid=1000000005000265027
+北京卫视,http://3501776.xyz:35455/itv/1000000005000265027.m3u8?cdn=ystenlive
 广东卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000520
 广东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010055
 广东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226248
 广东卫视,http://111.29.9.33:6610/000000001000/1000000001000014176/index.m3u8?channel-id=bestzb&Contentid=1000000001000014176&livemode=1&stbId=3
-广东卫视,http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://1.195.30.9:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://110.53.52.63:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://42.238.235.104:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://www.52iptv.vip:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 广东卫视,http://117.144.58.42:35455/itv/1000000001000014176.m3u8?cdn=ystenlive&Contentid=1000000001000014176
+广东卫视,http://3501776.xyz:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
+广东卫视,http://ott.eonn.cn:35455/itv/1000000005000265034.m3u8?cdn=ystenlive
 东南卫视,http://php.jdshipin.com/TVOD/gsyd.php?id=9900000519
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
 东南卫视,http://111.29.9.33:6610/000000001000/1000000002000009263/index.m3u8?channel-id=bestzb&Contentid=1000000002000009263&livemode=1&stbId=3
 东南卫视,http://110.53.52.63:8888/newlive/live/hls/47/live.m3u8
-东南卫视,http://www.52iptv.vip:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 东南卫视,http://117.144.58.42:35455/itv/1000000005000265033.m3u8?cdn=ystenlive&Contentid=1000000005000265033
-东南卫视,http://231114.xyz:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 东南卫视,http://3501776.xyz:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+东南卫视,http://ott.eonn.cn:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
+东南卫视,http://231114.xyz:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 东南卫视,http://2000.run:35455/itv/1000000005000265033.m3u8?cdn=ystenlive
 海峡卫视,http://php.jdshipin.com/TVOD/iptv.php?id=hxws
 海峡卫视,http://php.jdshipin.com/fujian.php?id=9
@@ -150,40 +162,43 @@ CCTV1 综合,http://www.52iptv.vip:35455/itv/1000000005000265001.m3u8?cdn=ystenl
 大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
 大湾区卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226442
 大湾区卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010108
-大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php?id=dwqws
-大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8
-大湾区卫视,http://150.158.112.123/%E5%85%AC%E4%BC%97%E5%8F%B7~%E7%8E%89%E7%8E%89%E8%BD%AF%E4%BB%B6%E5%BA%93/mg.php?id=dwqws
-大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146
 大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8
+大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8
+大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146
+大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8
 广东珠江,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011655
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 广东珠江,https://php.17186.eu.org/gdtv/web/gdzj.m3u8
+广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 广东珠江,http://183.3.134.56:9901/tsfile/live/0019_1.m3u8
-广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8
-广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146
 广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8
+广东珠江,http://1b6467f415.iok.la:9931/tsfile/live/1011_1.m3u8
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8
+广东珠江,http://121.33.239.242:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8
-广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
-广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146
+广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8
+广东体育,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
+广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146
 广东新闻,https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 广东新闻,http://php.jdshipin.com/TVOD/chudian.php?id=xwpd
+广东新闻,http://120.238.94.10:9901/tsfile/live/1010_1.m3u8
 广东新闻,http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8
 广东新闻,http://183.3.134.56:9901/tsfile/live/1005_1.m3u8
-广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
-广东新闻,http://183.11.239.36:808/hls/5/index.m3u8
 广东新闻,http://mzitv.cn:32/tsfile/live/1007_1.m3u8
-广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
-广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146
+广东新闻,http://1b6467f415.iok.la:9931/tsfile/live/1012_1.m3u8
+广东新闻,http://121.33.239.242:9901/tsfile/live/1008_1.m3u8
 广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8
+广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146
 广州综合,http://php.jdshipin.com/gztv.php?id=zhonghe
 广州综合,http://php.jdshipin.com/TVOD/iptv.php?id=gzzh
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州综合,http://120.77.205.62:8087/rtp/239.253.43.71:5146
+广州综合,http://tvbox6.icu/tv/gdmzyd.php?id=17
 广州影视,http://php.jdshipin.com/gztv.php?id=yingshi
 广州影视,http://php.jdshipin.com/TVOD/iptv.php?id=gzys
 广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=f8977818fb683f0feacd3753d3c00e1b&txTime=1948356cb67
@@ -196,6 +211,7 @@ CCTV1 综合,http://www.52iptv.vip:35455/itv/1000000005000265001.m3u8?cdn=ystenl
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,http://mzitv.cn:32/tsfile/live/1016_1.m3u8
+翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
 viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -212,10 +228,12 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,https://edge2.laotv.la/live/PhxChinese/index.m3u8
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
+凤凰中文,http://120.55.49.231:3095/rtp/233.50.200.191:5140
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 凤凰资讯,http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰资讯,http://120.55.49.231:3095/rtp/233.50.200.192:5140
 
 🕘️更新时间,#genre#
-2025-02-16 06:28:54,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010093
+2025-02-16 18:27:20,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010093
