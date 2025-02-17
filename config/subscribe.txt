@@ -19,3 +19,4 @@ https://raw.githubusercontent.com/rad168/iptv/refs/heads/main/live.txt
 https://www.freetv.top/migu.m3u
 https://d.kstore.dev/download/7560/IPTV-API/local.txt
 https://tv.iill.top/m3u/Gather
+https://live.kilvn.com/iptv.m3u
