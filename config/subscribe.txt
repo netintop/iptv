@@ -20,3 +20,7 @@ https://www.freetv.top/migu.m3u
 https://d.kstore.dev/download/7560/IPTV-API/local.txt
 https://tv.iill.top/m3u/Gather
 https://live.kilvn.com/iptv.m3u
+http://124.71.189.194/zb.txt
+https://gitee.com/zhang-station1/genius-film-and-television/raw/master/3658
+https://7337.kstore.space/twkj/tvzb.txt
+http://8.138.7.223/live.txt
