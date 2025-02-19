@@ -5,3 +5,4 @@
 https://raw.githubusercontent.com/rad168/iptv/refs/heads/main/live.txt
 https://www.freetv.top/migu.m3u
 https://raw.githubusercontent.com/netintop/iptv/refs/heads/master/config/mine.txt
+RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
