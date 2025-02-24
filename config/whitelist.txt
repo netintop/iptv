@@ -36,3 +36,8 @@ RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
+广东民生,http://222.128.55.152:9080/live/gdms.m3u8
+广东体育,http://222.128.55.152:9080/live/gdty.m3u8
+广东影视,http://222.128.55.152:9080/live/gdys.m3u8
+广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8
