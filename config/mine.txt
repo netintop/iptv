@@ -1,9 +1,0 @@
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86$
-广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=fce977d9b1face68b559804da75c4539&txTime=1948352a793$
-广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=f8977818fb683f0feacd3753d3c00e1b&txTime=1948356cb67$
-南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=5b86bee8020977c37849f2132cabff44&txTime=1948356cb67$
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$
-浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$
-内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800$
-华丽台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
-无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
