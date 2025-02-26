@@ -91,4 +91,4 @@ RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$白名单
 凤凰资讯,http://120.55.49.231$订阅源
 
 🕘️更新时间,#genre#
-2025-02-26 18:14:10,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010093$白名单
+2025-02-27 06:11:58,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010093$白名单
